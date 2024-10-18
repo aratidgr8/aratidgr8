@@ -21,7 +21,7 @@ Hi there. I am Arati Bhandare living in Mumbai, Maharashtra, India 👋
 - 💼 Technical Lead Engineer at NewFold Digital
 - 🎓 Bachelor of Engineering in Information technology from Mumbai University
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=visitor-badge-reloaded-visitors&lcolor=000&color=fff&style=for-the-badge&logo=Snapchat&logoColor=FFFC00&hit=false)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=v![Visitor Count](https://profile-counter.glitch.me/aratidgr8/count.svg)isitor-badge-reloaded-visitors&lcolor=000&color=fff&style=for-the-badge&logo=Snapchat&logoColor=FFFC00&hit=false)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
