@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Hi there. I am Arati Bhandare living in Mumbai, Maharashtra, India 👋
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: About Me
 - 🖥 Software Professional with vivid ideas
 - 💼 Technical Lead Engineer at NewFold Digital
 - 🎓 Bachelor of Engineering in Information technology from Mumbai University
@@ -26,7 +26,7 @@ Hi there. I am Arati Bhandare living in Mumbai, Maharashtra, India 👋
 
 ![Visitors](https://profile-counter.glitch.me/aratidgr8/count.svg)
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+## ⬆ What I'm up to
 
 - 🔨 I'm currently working on...
 
@@ -58,7 +58,7 @@ Hi there. I am Arati Bhandare living in Mumbai, Maharashtra, India 👋
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+## 🔔 My GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/aratidgr8?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FKolkatta)
 
 <!--
@@ -67,7 +67,7 @@ Hi there. I am Arati Bhandare living in Mumbai, Maharashtra, India 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratidgr8&layout=compact)](https://github.com/aratidgr8)
 
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+## 📫 How to reach me
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Arati Bhandare on LinkedIn"/>](https://www.linkedin.com/in/aratibhandare/)
