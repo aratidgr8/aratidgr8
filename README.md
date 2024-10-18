@@ -74,9 +74,9 @@ Hi there. I am Arati Bhandare living in Mumbai, Maharashtra, India 👋
 ## 🔔 My GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/aratidgr8?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FKolkatta)
 
-<!--
+
 [![Arati's GitHub stats](https://github-readme-stats.vercel.app/api?username=aratidgr8&layout=compact)](https://github.com/aratidgr8)
--->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratidgr8&layout=compact)](https://github.com/aratidgr8)
 
 
