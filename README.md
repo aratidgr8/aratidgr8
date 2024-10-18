@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **aratidgr8/aratidgr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there. I am Arati Bhandare living in Mumbai, Maharashtra, India 👋
+Hi there. I am Arati Bhandare living in Mumbai, Maharashtra, India 👋
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Software Professional with vivid ideas
